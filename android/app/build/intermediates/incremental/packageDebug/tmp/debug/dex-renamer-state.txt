@@ -1,0 +1,4 @@
+#Tue Jan 29 00:55:04 BRT 2019
+base.0=/home/enilton/Documentos/repo_react_native/RN_firebase_auth/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
